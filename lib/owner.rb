@@ -68,12 +68,3 @@ class Owner
   end
 
 end #end class
-
-
-  
-  
-  
-  
-  
-  
-  
