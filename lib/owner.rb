@@ -1,6 +1,6 @@
 class Owner
   
-  # Class Methods #
+# Class Methods #
 
   def self.all
     @@all
@@ -14,7 +14,15 @@ class Owner
     @@all.clear
   end
 
-  
+# Instance Methods # 
+
+
+
+
+
+
+
+
 end
 
 
